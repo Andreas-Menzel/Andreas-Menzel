@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-    <h1>Hey! 👋</h1>
+    <h1>think once - plan twice - code thrice</h1>
 </div>
 
 <br>
@@ -36,3 +36,19 @@
         <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
     </a>
 </div>
+
+# Bored? 😶‍🌫️
+Lucky you! I have two tasks you can master 🥳
+
+## Fix bugs in one of my projects
+
+Choose a repository you like or find interesting. Check out the code and improve it: remove bugs, increase performance, etc.
+
+You may want to have a look at <a href="https://github.com/andreas-menzel/taskscheduler">TaskScheduler</a>. It still misses some tests. 😧
+
+## Find the hidden cookie
+
+I have hidden a <sub>secret</sub> <sup>cookie</sup> somewhere in my profile. If you can find it, you can eat it.
+<!--
+🍪 This wasn't that hard, was it?
+-->
