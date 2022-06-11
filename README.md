@@ -3,6 +3,14 @@
 </div>
 
 <div align="center">
+    <a href="README.md#🥳-You-made-it-to-the-end-🥳">
+        <img src="https://img.shields.io/badge/%F0%9F%8C%80%20Beam%20me%20down%20%F0%9F%8C%80-purple?style=for-the-badge" title="Energize!">
+    </a>
+</div>
+
+<br>
+
+<div align="center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
     <h1>think once - plan twice - code thrice</h1>
 </div>
@@ -96,3 +104,9 @@ I have hidden a <sub>secret</sub> <sup>cookie</sup> somewhere in my profile. If 
 <!--
 🍪 This wasn't that hard, was it?
 -->
+
+<br>
+<div align="center">
+    <h6 id="🥳-You-made-it-to-the-end-🥳">🥳 You made it to the end 🥳</h6>
+    <p>Now let's start coding! 💻</p>
+</h6>
