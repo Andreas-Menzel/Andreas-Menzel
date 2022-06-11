@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <a href="README.md#🥳-You-made-it-to-the-end-🥳">
+    <a href="#🥳-You-made-it-to-the-end-🥳">
         <img src="https://img.shields.io/badge/%F0%9F%8C%80%20Beam%20me%20down%20%F0%9F%8C%80-purple?style=for-the-badge" title="Energize!">
     </a>
 </div>
