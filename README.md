@@ -30,7 +30,7 @@
 
 
 - 🎓 I'm currently studying Bachelor Informatics at Technical University Munich
-- 🔭 I’m currently working on <a href="https://github.com/andreas-menzel/taskscheduler">TaskScheduler</a> and <a href="https://github.com/andreas-menzel/WebMailSender">WebMailSender</a>
+- 🔭 I’m currently working on <a href="https://github.com/andreas-menzel/TUMLiveDownloader">TUMLiveDownloader</a> and <a href="https://github.com/andreas-menzel/WebMailSender">WebMailSender</a>
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: <a href="mailto:mail@andreas-menzel.com">mail@andreas-menzel.com</a>
 - 🤓 Future topics to exlore: Secure Shell (SSH), (GPG-) Keys & Authorisation
@@ -40,16 +40,21 @@
 <div align="center">
     <h3>My Setup</h3>
     <div>
-        <img src="https://img.shields.io/badge/Laptop-Lenovo%20Yoga%20530%2014IKB-orange">
-        <img src="https://img.shields.io/badge/OS-Linux-yellow">
-        <img src="https://img.shields.io/badge/Distro-Fedora-blue">
+        <img src="https://img.shields.io/badge/Laptop-Lenovo%20Yoga%20530%2014IKB-brightgreen">
+        <img src="https://img.shields.io/badge/OS-Linux-brightgreen">
+        <img src="https://img.shields.io/badge/Distro-Fedora-brightgreen">
     </div>
     <div>
-        <img src="https://img.shields.io/badge/Cloud-Nextcloud%20Home%20Server-blue?logo=nextcloud">
-        <img src="https://img.shields.io/badge/Backup-soon-inactive">
+        <img src="https://img.shields.io/badge/Cloud-Nextcloud%20Home%20Server-brightgreen?logo=nextcloud">
+        <img src="https://img.shields.io/badge/Backup-on--site%20backup%20server-inactive">
+        <img src="https://img.shields.io/badge/Backup-off--site%20hard%20drive-inactive">
     </div>
     <div>
-        <img src="https://img.shields.io/badge/Editor-Atom-brightgreen">
+        <img src="https://img.shields.io/badge/Editor-VSCodium-brightgreen">
+        <img src="https://img.shields.io/badge/Editor-Atom-green">
+    </div>
+    <div>
+        <img src="https://img.shields.io/badge/Font-Comic%20Code-brightgreen">
     </div>
 </div>
 
