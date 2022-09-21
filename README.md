@@ -1,8 +1,4 @@
 <div align="center">
-    <h2>🚧🚧🚧 This site is still under construction 🚧🚧🚧</h2>
-</div>
-
-<div align="center">
     <a href="#🥳-You-made-it-to-the-end-🥳">
         <img src="https://img.shields.io/badge/%F0%9F%8C%80%20Beam%20me%20down%20%F0%9F%8C%80-purple?style=for-the-badge" title="Energize!">
     </a>
@@ -17,20 +13,20 @@
 
 <br>
 
-<div id="badges" align="center">
+<!--<div id="badges" align="center">
     <a href="https://www.instagram.com/andreasmenzel00/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
     <a href="">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
     </a>
-</div>
+</div>-->
 
 <br>
 
 
 - 🎓 I'm currently studying Bachelor Informatics at Technical University Munich
-- 🔭 I’m currently working on <a href="https://github.com/andreas-menzel/TUMLiveDownloader">TUMLiveDownloader</a> and <a href="https://github.com/andreas-menzel/WebMailSender">WebMailSender</a>
+- 🔭 I’m currently working on <a href="https://github.com/andreas-menzel/IncrementalBackup">IncrementalBackup</a>
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: <a href="mailto:mail@andreas-menzel.com">mail@andreas-menzel.com</a>
 - 🤓 Future topics to exlore: Secure Shell (SSH), (GPG-) Keys & Authorisation
