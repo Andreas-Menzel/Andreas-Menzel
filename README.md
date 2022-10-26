@@ -13,14 +13,14 @@
 
 <br>
 
-<!--<div id="badges" align="center">
+<div id="badges" align="center">
     <a href="https://www.instagram.com/andreasmenzel00/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
-    <a href="">
+    <a href="https://www.linkedin.com/in/andreas-menzel/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
     </a>
-</div>-->
+</div>
 
 <br>
 
