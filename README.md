@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+    <img src="https://andreas-menzel.com/share/Visitenkarte.png" width="75%">
     <h1>think once - plan twice - code thrice</h1>
 </div>
 
