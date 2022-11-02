@@ -14,22 +14,22 @@
 <br>
 
 <div id="badges" align="center">
-    <a href="https://www.instagram.com/andreasmenzel00/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
     <a href="https://www.linkedin.com/in/andreas-menzel/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    </a>
+    <a href="https://www.instagram.com/andreasmenzel00/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
 </div>
 
 <br>
 
 
-- 🎓 I'm currently studying Bachelor Informatics at Technical University Munich
+- 🎓 I'm currently looking for a topic and superviser for my Bachelor Thesis at Technical University Munich
 - 🔭 I’m currently working on <a href="https://github.com/andreas-menzel/IncrementalBackup">IncrementalBackup</a>
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Advanced Python Concepts
 - 📫 How to reach me: <a href="mailto:mail@andreas-menzel.com">mail@andreas-menzel.com</a>
-- 🤓 Future topics to exlore: Secure Shell (SSH), (GPG-) Keys & Authorisation
+- 🤓 Future topics to exlore: Bash
 
 <br>
 
