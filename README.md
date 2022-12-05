@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-    <img src="https://andreas-menzel.com/share/Visitenkarte.png" width="75%">
+    <img src="https://andreas-menzel.com/static/Visitenkarte_Rueckseite.png" width="70%">
     <h1>think once - plan twice - code thrice</h1>
 </div>
 
