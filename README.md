@@ -25,11 +25,13 @@
 <br>
 
 
-- 🎓 I'm currently looking for a topic and superviser for my Bachelor Thesis at Technical University Munich
-- 🔭 I’m currently working on <a href="https://github.com/andreas-menzel/IncrementalBackup">IncrementalBackup</a>
-- 🌱 I’m currently learning Advanced Python Concepts
+- 🎓 I'm currently beginning my final university project [AutonomousDroneDeliverySystem](https://github.com/Andreas-Menzel/AutonomousDroneDeliverySystem) for my Bachelor Thesis at Technical University Munich
+- 🔭 I’m currently working on [AutonomousDroneDeliverySystem](https://github.com/Andreas-Menzel/AutonomousDroneDeliverySystem)
+- 🌱 I’m currently learning Python, ArduPilot, some things about electronics (drone hardware- & software setup)
 - 📫 How to reach me: <a href="mailto:mail@andreas-menzel.com">mail@andreas-menzel.com</a>
-- 🤓 Future topics to exlore: Bash
+<!-- - 🤓 Future topics to exlore: Bash -->
+
+**Do you have experience with drones, especially with ArduPilot / ArduCopter? Then let's get in touch!**
 
 <br>
 
