@@ -6,6 +6,10 @@
 
 <br>
 
+<p align="center">⚠️ Do you have experience with drones, especially with ArduPilot? Then let's get in touch! ⚠️</p>
+
+<br>
+
 <div align="center">
     <img src="https://andreas-menzel.com/static/Visitenkarte_Rueckseite.png" width="70%">
     <h1>think once - plan twice - code thrice</h1>
@@ -31,9 +35,7 @@
 - 📫 How to reach me: <a href="mailto:mail@andreas-menzel.com">mail@andreas-menzel.com</a>
 <!-- - 🤓 Future topics to exlore: Bash -->
 
-**Do you have experience with drones, especially with ArduPilot / ArduCopter? Then let's get in touch!**
-
-<br>
+<!-- <br>
 
 <div align="center">
     <h3>My Setup</h3>
@@ -88,7 +90,7 @@
     <div>
         <img src="https://img.shields.io/badge/Git-green?logo=git">
     </div>
-</div>
+</div> -->
     
 <br>
 
