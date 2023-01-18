@@ -6,7 +6,7 @@
 
 <br>
 
-<p align="center">⚠️ Do you have experience with drones, especially with ArduPilot? Then let's get in touch! ⚠️</p>
+<p align="center">⚠️ Do you have experience with drones, especially with ArduPilot or the DJI SDKs? Then let's get in touch! ⚠️</p>
 
 <br>
 
