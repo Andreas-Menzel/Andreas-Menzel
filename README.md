@@ -30,7 +30,15 @@
 
 
 - 🎓 I'm currently in the middle of my final university project [AutonomousDroneDeliverySystem](https://github.com/Andreas-Menzel/AutonomousDroneDeliverySystem) for my Bachelor Thesis at Technical University Munich. Check out all the related repositories (ADDS-\*) to see what I am up to!
-- 🔭 I’m currently working on [AutonomousDroneDeliverySystem](https://github.com/Andreas-Menzel/AutonomousDroneDeliverySystem), [ADDS-TrafficSystem-Central](https://github.com/Andreas-Menzel/ADDS-TrafficSystem-Central) and [ADDS-DJI-AndroidApp](https://github.com/Andreas-Menzel/ADDS-DJI-AndroidApp)
+- 🔭 I’m currently working on Autonomous Drone Delivery System, which consists of the following repositories:
+    - [AutonomousDroneDeliverySystem](https://github.com/Andreas-Menzel/AutonomousDroneDeliverySystem)
+    - Back-Ends:
+        - [ADDS-TrafficControl](https://github.com/Andreas-Menzel/ADDS-TrafficControl)
+        - [ADDS-UserManagementSystem](https://github.com/Andreas-Menzel/ADDS-UserManagementSystem)
+        - [ADDS-BookingSystem](https://github.com/Andreas-Menzel/ADDS-BookingSystem)
+    - Apps:
+        - [ADDS-DJI-AndroidApp](https://github.com/Andreas-Menzel/ADDS-DJI-AndroidApp)
+        - [ADDS-AndroidApp](https://github.com/Andreas-Menzel/ADDS-AndroidApp)
 - 🌱 I’m currently learning Android App Development + Java + DJI MSDK, Python and some things about electronics (drone hardware- & software setup)
 - 📫 How to reach me: <a href="mailto:mail@andreas-menzel.com">mail@andreas-menzel.com</a>
 <!-- - 🤓 Future topics to exlore: Bash -->
