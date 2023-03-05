@@ -36,9 +36,11 @@
         - [ADDS-TrafficControl](https://github.com/Andreas-Menzel/ADDS-TrafficControl)
         - [ADDS-UserManagementSystem](https://github.com/Andreas-Menzel/ADDS-UserManagementSystem)
         - [ADDS-BookingSystem](https://github.com/Andreas-Menzel/ADDS-BookingSystem)
-    - Apps:
+    - Android-Apps:
         - [ADDS-DJI-AndroidApp](https://github.com/Andreas-Menzel/ADDS-DJI-AndroidApp)
         - [ADDS-AndroidApp](https://github.com/Andreas-Menzel/ADDS-AndroidApp)
+    - Web-Apps:
+        - [ADDS-ControlPanel](https://github.com/Andreas-Menzel/ADDS-ControlPanel)
 - 🌱 I’m currently learning Android App Development + Java + DJI MSDK, Python and some things about electronics (drone hardware- & software setup)
 - 📫 How to reach me: <a href="mailto:mail@andreas-menzel.com">mail@andreas-menzel.com</a>
 <!-- - 🤓 Future topics to exlore: Bash -->
