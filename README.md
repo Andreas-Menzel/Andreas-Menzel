@@ -29,18 +29,21 @@
 <br>
 
 
-- 🎓 I'm currently in the middle of my final university project [AutonomousDroneDeliverySystem](https://github.com/Andreas-Menzel/AutonomousDroneDeliverySystem) for my Bachelor Thesis at Technical University Munich. Check out all the related repositories (ADDS-\*) to see what I am up to!
-- 🔭 I’m currently working on Autonomous Drone Delivery System, which consists of the following repositories:
-    - [AutonomousDroneDeliverySystem](https://github.com/Andreas-Menzel/AutonomousDroneDeliverySystem)
-    - Back-Ends:
-        - [ADDS-TrafficControl](https://github.com/Andreas-Menzel/ADDS-TrafficControl)
-        - [ADDS-UserManagementSystem](https://github.com/Andreas-Menzel/ADDS-UserManagementSystem)
-        - [ADDS-BookingSystem](https://github.com/Andreas-Menzel/ADDS-BookingSystem)
-    - Android-Apps:
-        - [ADDS-DJI-AndroidApp](https://github.com/Andreas-Menzel/ADDS-DJI-AndroidApp)
-        - [ADDS-AndroidApp](https://github.com/Andreas-Menzel/ADDS-AndroidApp)
-    - Web-Apps:
-        - [ADDS-ControlPanel](https://github.com/Andreas-Menzel/ADDS-ControlPanel)
+- 🎓 I'm currently in the last quarter of my final university project AutonomousDroneDeliverySystem for my Bachelor Thesis at Technical University Munich. The repositories are private for now, but will all be published once the thesis is written :)
+- 🔭 I’m currently working on Autonomous Drone Delivery System, which consists of the following tasks / programming languages:
+    - Python + Flask + SQLite: Backend API services for multiple components
+        - Implementation of a blackbox system for drones
+        - Crash-avoiding path planning for a fleet of multiple drones
+        - ...
+    - HTML + CSS + JS: Webapplication
+        - Monitor the drones (plural) data in real-time
+        - Interact with the drone fleet
+        - ...
+    - Android Studio + Java: Implementation of a DJI App
+        - Android App to interface with DJI drones
+        - Fetching commands from Flight Control, uploading missions to the drone
+        - ...
+    - GO (just a little): Interface with a blockchain to save the blackbox data
 - 🌱 I’m currently learning Android App Development + Java + DJI MSDK, Python and some things about electronics (drone hardware- & software setup)
 - 📫 How to reach me: <a href="mailto:mail@andreas-menzel.com">mail@andreas-menzel.com</a>
 <!-- - 🤓 Future topics to exlore: Bash -->
