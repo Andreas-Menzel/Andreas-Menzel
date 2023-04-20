@@ -44,6 +44,7 @@
         - Fetching commands from Flight Control, uploading missions to the drone
         - ...
     - GO (just a little): Interface with a blockchain to save the blackbox data
+    - Ansible: Setup the server(s)
 - 🌱 I’m currently learning Android App Development + Java + DJI MSDK, Python and some things about electronics (drone hardware- & software setup)
 - 📫 How to reach me: <a href="mailto:mail@andreas-menzel.com">mail@andreas-menzel.com</a>
 <!-- - 🤓 Future topics to exlore: Bash -->
