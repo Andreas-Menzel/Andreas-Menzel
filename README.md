@@ -24,7 +24,7 @@
 
 # Hello and Welcome to my Github Profile 👨‍💻
 
-`Hello World!` 👋 My name is Andreas Menzel. I'm a Software Engineer specializing in Python. When I'm not writing code, I like ~crashing~ flying fpv drones.
+`Hello World!` 👋 My name is Andreas Menzel. I'm a Software Engineer specializing in Python programming and back-end development. When I'm not writing code, I like ~crashing~ flying fpv drones.
 
 I'm always up for exciting collaborations on private and commercial projects. If you have a brilliant idea or need some coding wizardry, feel free to reach out! Let's join forces and create something fun and extraordinary together.
 
