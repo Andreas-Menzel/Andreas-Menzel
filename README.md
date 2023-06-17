@@ -6,10 +6,6 @@
 
 <br>
 
-<p align="center">⚠️ Do you have experience with the DJI SDKs and / or Android app development? Then let's get in touch! ⚠️</p>
-
-<br>
-
 <div align="center">
     <img src="https://andreas-menzel.com/static/Visitenkarte_Rueckseite.png" width="70%">
     <h1>think once - plan twice - code thrice</h1>
@@ -18,17 +14,38 @@
 <br>
 
 <div id="badges" align="center">
+    <a href="https://andreas-menzel.com/">
+        <img src="https://img.shields.io/badge/My_Website-bronze?style=for-the-badge&color=da9f8d" alt="Badge for My Website" />
+    </a>
     <a href="https://www.linkedin.com/in/andreas-menzel/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-    </a>
-    <a href="https://www.instagram.com/andreasmenzel00/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
 </div>
 
 <br>
 
+# Hello and Welcome to my Github Profile 👨‍💻
 
+`Hello World!` 👋 My name is Andreas Menzel. I'm a Software Engineer specializing in Python. When I'm not writing code, I like ~crashing~ flying fpv drones.
+
+I'm always up for exciting collaborations on private and commercial projects. If you have a brilliant idea or need some coding wizardry, feel free to reach out! Let's join forces and create something fun and extraordinary together.
+
+## My Favorite Project ❤️
+
+My most beloved project (so far) has to be the fully functional Proof-of-Concept *Autonomous Drone Delivery System* (ADDS) that I brought to life as part of my Bachelor's Thesis at the Technical University of Munich.
+
+🚁 The goal of ADDS was to automate the coordination and control of multiple drones simultaneously, ensuring the safe and autonomous transport of small cargo containers.
+
+The ADDS comprises four essential components, three of which are publicly available and open source:
+- [ADDS-FlightControl](https://github.com/Andreas-Menzel/ADDS-FlightControl): This repository hosts the central server and brain of ADDS. It plans flight routes for each drone, ensuring collision avoidance. It also interfaces with the blockchain and manages the blackbox for secure data storage.
+- [ADDS-DJI-AndroidApp](https://github.com/Andreas-Menzel/ADDS-DJI-AndroidApp): This repository houses an Android App that serves as the bridge between hardware and software, by sending the commands from Flight Control to the drone and requesting flight data to send back to Flight Control.
+- [ADDS-ControlPanel](https://github.com/Andreas-Menzel/ADDS-ControlPanel): In this repository, you'll find the web application that enables monitoring of the entire drone fleet. It offers multiple interactive "applets," including an interactive OpenStreetMap view and bar charts to monitor the state of charge of each drone, among other features.
+
+Please note that the code for the fourth component, *ADDS-CChainLink*, is kept private as it incorporates a blockchain technology developed by my professor, which is not yet publicly available. ADDS-CChainLink ensures the secure storage of flight data in a blockchain, preventing manipulation or deletion.
+
+**For more detailed information, feel free to explore the READMEs of each repository. Happy exploring! 🥳**
+
+<!--
 - 🎓 I'm currently in the last quarter of my final university project AutonomousDroneDeliverySystem for my Bachelor Thesis at Technical University Munich. The repositories are private for now, but will all be published once the thesis is written :)
 - 🔭 I’m currently working on Autonomous Drone Delivery System, which consists of the following tasks / programming languages:
     - Python + Flask + SQLite: Backend API services for multiple components
@@ -47,64 +64,8 @@
     - Ansible: Setup the server(s)
 - 🌱 I’m currently learning Android App Development + Java + DJI MSDK, Python and some things about electronics (drone hardware- & software setup)
 - 📫 How to reach me: <a href="mailto:mail@andreas-menzel.com">mail@andreas-menzel.com</a>
-<!-- - 🤓 Future topics to exlore: Bash -->
+ - 🤓 Future topics to exlore: Bash -->
 
-<!-- <br>
-
-<div align="center">
-    <h3>My Setup</h3>
-    <div>
-        <img src="https://img.shields.io/badge/Laptop-Lenovo%20Yoga%20530%2014IKB-brightgreen">
-        <img src="https://img.shields.io/badge/OS-Linux-brightgreen">
-        <img src="https://img.shields.io/badge/Distro-Fedora-brightgreen">
-    </div>
-    <div>
-        <img src="https://img.shields.io/badge/Cloud-Nextcloud%20Home%20Server-brightgreen?logo=nextcloud">
-        <img src="https://img.shields.io/badge/Backup-on--site%20backup%20server-inactive">
-        <img src="https://img.shields.io/badge/Backup-off--site%20hard%20drive-inactive">
-    </div>
-    <div>
-        <img src="https://img.shields.io/badge/Editor-VSCodium-brightgreen">
-        <img src="https://img.shields.io/badge/Editor-Atom-green">
-    </div>
-    <div>
-        <img src="https://img.shields.io/badge/Font-Comic%20Code-brightgreen">
-    </div>
-</div>
-
-<br>
-
-<div align="center">
-    <h3>Languages</h3>
-    <div>
-        <img src="https://img.shields.io/badge/Python-brightgreen?logo=python">
-        <img src="https://img.shields.io/badge/Haskell-yellow?logo=haskell">
-    </div>
-    <div>
-        <img src="https://img.shields.io/badge/PHP-brightgreen?logo=php">
-        <img src="https://img.shields.io/badge/HTML5-green?logo=html5">
-        <img src="https://img.shields.io/badge/CSS3-green?logo=css3">
-        <img src="https://img.shields.io/badge/SASS-green?logo=sass">
-        <img src="https://img.shields.io/badge/SQL-green?logo=mariadb">
-        <img src="https://img.shields.io/badge/Javascript-yellowgreen?logo=javascript">
-    </div>
-    <div>
-        <img src="https://img.shields.io/badge/Markdown-green?logo=markdown">
-    </div>
-</div>
-
-<br>
-
-<div align="center">
-    <h3>Other Interests</h3>
-    <div>
-        <img src="https://img.shields.io/badge/Arduino-brightgreen?logo=arduino">
-        <img src="https://img.shields.io/badge/Raspberry Pi-green?logo=raspberrypi">
-    </div>
-    <div>
-        <img src="https://img.shields.io/badge/Git-green?logo=git">
-    </div>
-</div> -->
     
 <br>
 
