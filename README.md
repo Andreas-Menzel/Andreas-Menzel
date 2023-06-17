@@ -4,12 +4,10 @@
     </a>
 </div>
 
-<br>
-
-<div align="center">
+<!--<div align="center">
     <img src="https://andreas-menzel.com/static/Visitenkarte_Rueckseite.png" width="70%">
     <h1>think once - plan twice - code thrice</h1>
-</div>
+</div>-->
 
 <br>
 
@@ -66,8 +64,6 @@ Please note that the code for the fourth component, *ADDS-CChainLink*, is kept p
 - 📫 How to reach me: <a href="mailto:mail@andreas-menzel.com">mail@andreas-menzel.com</a>
  - 🤓 Future topics to exlore: Bash -->
 
-    
-<br>
 
 # Bored? 😶‍🌫️
 Lucky you! I have two tasks you can master 🥳
