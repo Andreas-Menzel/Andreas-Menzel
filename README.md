@@ -39,7 +39,7 @@ Please note that the code for the fourth component, *ADDS-CChainLink*, is kept p
 
 **For more detailed information, feel free to explore the READMEs of each repository. Happy exploring! 🥳**
 
-# Bored? 😶‍🌫️
+<!--# Bored? 😶‍🌫️
 Lucky you! I have two tasks you can master 🥳
 
 ## Fix bugs in one of my projects
@@ -50,7 +50,7 @@ You may want to have a look at <a href="https://github.com/andreas-menzel/tasksc
 
 ## Find the hidden cookie
 
-I have hidden a <sub>secret</sub> <sup>cookie</sup> somewhere in my profile. If you can find it, you can eat it.
+I have hidden a <sub>secret</sub> <sup>cookie</sup> somewhere in my profile. If you can find it, you can eat it.-->
 <!--
 🍪 This wasn't that hard, was it?
 -->
