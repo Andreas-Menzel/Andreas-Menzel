@@ -4,11 +4,6 @@
     </a>
 </div>
 
-<!--<div align="center">
-    <img src="https://andreas-menzel.com/static/Visitenkarte_Rueckseite.png" width="70%">
-    <h1>think once - plan twice - code thrice</h1>
-</div>-->
-
 <br>
 
 <div id="badges" align="center">
@@ -31,6 +26,7 @@ I'm always up for exciting collaborations on private and commercial projects. If
 ## My Favorite Project ❤️
 
 My most beloved project (so far) has to be the fully functional Proof-of-Concept *Autonomous Drone Delivery System* (ADDS) that I brought to life as part of my Bachelor's Thesis at the Technical University of Munich.
+I am extremely happy and proud that this extensive project was rated with a grade of 1.0! 💪 🎉 ✨
 
 🚁 The goal of ADDS was to automate the coordination and control of multiple drones simultaneously, ensuring the safe and autonomous transport of small cargo containers.
 
@@ -42,28 +38,6 @@ The ADDS comprises four essential components, three of which are publicly availa
 Please note that the code for the fourth component, *ADDS-CChainLink*, is kept private as it incorporates a blockchain technology developed by my professor, which is not yet publicly available. ADDS-CChainLink ensures the secure storage of flight data in a blockchain, preventing manipulation or deletion.
 
 **For more detailed information, feel free to explore the READMEs of each repository. Happy exploring! 🥳**
-
-<!--
-- 🎓 I'm currently in the last quarter of my final university project AutonomousDroneDeliverySystem for my Bachelor Thesis at Technical University Munich. The repositories are private for now, but will all be published once the thesis is written :)
-- 🔭 I’m currently working on Autonomous Drone Delivery System, which consists of the following tasks / programming languages:
-    - Python + Flask + SQLite: Backend API services for multiple components
-        - Implementation of a blackbox system for drones
-        - Crash-avoiding path planning for a fleet of multiple drones
-        - ...
-    - HTML + CSS + JS: Webapplication
-        - Monitor the drones (plural) data in real-time
-        - Interact with the drone fleet
-        - ...
-    - Android Studio + Java: Implementation of a DJI App
-        - Android App to interface with DJI drones
-        - Fetching commands from Flight Control, uploading missions to the drone
-        - ...
-    - GO (just a little): Interface with a blockchain to save the blackbox data
-    - Ansible: Setup the server(s)
-- 🌱 I’m currently learning Android App Development + Java + DJI MSDK, Python and some things about electronics (drone hardware- & software setup)
-- 📫 How to reach me: <a href="mailto:mail@andreas-menzel.com">mail@andreas-menzel.com</a>
- - 🤓 Future topics to exlore: Bash -->
-
 
 # Bored? 😶‍🌫️
 Lucky you! I have two tasks you can master 🥳
